@@ -1,2 +1,6 @@
 scikit-learn==1.8.0
 mlxtend==0.24.0
+mkdocs<2.0.0
+mkdocs-material==9.7.6
+mkdocstrings[python]
+mkdocs-jupyter==0.26.1
