@@ -1,4 +1,5 @@
 site_name: "Révision L3-S6"
+site_url: https://t1m045.github.io/revision-l3/
 
 theme:
   name: material
